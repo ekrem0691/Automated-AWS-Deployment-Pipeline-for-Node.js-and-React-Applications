@@ -3,7 +3,7 @@ variable "mykey" {
 }
 
 variable "git-token" {
-  default = "**************************"
+  default = "************************"
   description = "write your github token for private app repo"
 }
 
